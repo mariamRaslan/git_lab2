@@ -1,6 +1,6 @@
 # git_lab2
 
-`git branch -d <branch_Name>`
+```git branch -d <branch_Name>```
 to delete branch locally
 
 
